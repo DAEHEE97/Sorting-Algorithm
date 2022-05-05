@@ -7,12 +7,12 @@
 # [Insertion_Sort](https://github.com/DAEHEE97/Sorting-Algorithm/blob/main/Insertion_Sort.ipynb)
 
 ---
+# [Quick_Sort](https://github.com/DAEHEE97/Sorting-Algorithm/blob/main/Quick_Sort.ipynb)
+
+---
 # [Shell_Sort](https://github.com/DAEHEE97/Sorting-Algorithm/blob/main/Shell_Sort.ipynb)
 
 ---
 # [Heap_Sort](https://github.com/DAEHEE97/Sorting-Algorithm/blob/main/Heap_Sort.ipynb)
-
----
-# [Quick_Sort](https://github.com/DAEHEE97/Sorting-Algorithm/blob/main/Quick_Sort.ipynb)
 
 ---
